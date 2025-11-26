@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: payment-service
+
+# Default uses localhost kafka for local dev (use profile docker when running in compose)
+kafka:
+  bootstrap-servers: localhost:9092

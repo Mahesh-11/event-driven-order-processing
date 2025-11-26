@@ -1,0 +1,12 @@
+target/
+*.class
+*.log
+*.jar
+*.war
+*.iml
+.idea/
+*.iws
+*.ipr
+.mvn/
+node_modules/
+.DS_Store
