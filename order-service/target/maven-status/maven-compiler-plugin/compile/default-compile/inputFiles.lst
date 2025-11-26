@@ -1,8 +1,0 @@
-C:\projects\order-processing-microservices\order-service\src\main\java\com\example\orderservice\controller\OrderController.java
-C:\projects\order-processing-microservices\order-service\src\main\java\com\example\orderservice\events\OrderCreatedEvent.java
-C:\projects\order-processing-microservices\order-service\src\main\java\com\example\orderservice\model\Order.java
-C:\projects\order-processing-microservices\order-service\src\main\java\com\example\orderservice\repository\OrderRepository.java
-C:\projects\order-processing-microservices\order-service\src\main\java\com\example\orderservice\config\KafkaConfig.java
-C:\projects\order-processing-microservices\order-service\src\main\java\com\example\orderservice\service\OrderDomainService.java
-C:\projects\order-processing-microservices\order-service\src\main\java\com\example\orderservice\dto\OrderRequest.java
-C:\projects\order-processing-microservices\order-service\src\main\java\com\example\orderservice\OrderServiceApplication.java
